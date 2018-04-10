@@ -7,6 +7,8 @@ public class HelloWorld {
 		System.out.println("The world says Hello back");
 		
 		System.out.println("The world also says waddup");
+		
+		System.out.println("The world also says nothing");
 
 	}
 
